@@ -3,7 +3,7 @@
 Software Engineer | Java Spring Boot | Microservices | Angular | React | MERN Stack
 
 I am a Software Engineer with experience building scalable enterprise applications using Java, Spring Boot, Angular, and microservices architecture.  
-Currently working as an Associate Software Engineer at Hellen Global (Pvt) Ltd, contributing to production-ready systems and REST API integrations.
+I recently completed my BSc (Hons) in Software Engineering at the University of Kelaniya and currently work as an Associate Software Engineer at Hellen Global (Pvt) Ltd.
 
 ---
 
@@ -37,7 +37,6 @@ Recruitment platform with admin dashboard, JWT authentication, and Firebase medi
 Tech: React, Node.js, Express.js, MongoDB, Firebase, JWT  
 Live: https://lbnkeyresource.com  
 GitHub: https://github.com/bhashana99/LBN-web  
- 
 
 ---
 
