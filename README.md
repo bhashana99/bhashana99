@@ -14,7 +14,7 @@ Currently working as an Associate Software Engineer at Hellen Global (Pvt) Ltd, 
 
 ---
 
-## Selected Projects
+## Projects
 
 **FindMyMedi (Ongoing)**  
 Healthcare platform for real-time medicine availability and secure pharmacy integration with OAuth2 authentication.  
@@ -26,11 +26,18 @@ Event-driven microservices healthcare backend enabling scalable communication th
 Tech: Spring Boot, Microservices, Kafka, gRPC, Docker  
 GitHub: https://github.com/bhashana99/MediBridge  
 
+**Dynamic Portfolio Hub**  
+Customizable portfolio management platform with admin panel, JWT authentication, and live deployment.  
+Tech: React, Node.js, Express.js, MongoDB, Firebase, JWT  
+Live Demo: https://portfolio-template-4kpe.onrender.com  
+GitHub: https://github.com/bhashana99/dynamic_portfolio_hub  
+
 **Vacancy Manager Pro (Live Client Project)**  
 Recruitment platform with admin dashboard, JWT authentication, and Firebase media storage.  
 Tech: React, Node.js, Express.js, MongoDB, Firebase, JWT  
 Live: https://lbnkeyresource.com  
 GitHub: https://github.com/bhashana99/LBN-web  
+ 
 
 ---
 
