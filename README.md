@@ -1,6 +1,6 @@
-<h1 align="center">Hello there! 👋 I'm Bhashana Chamodya</h1>
+<h1 >Hello there! 👋 I'm Bhashana Chamodya</h1>
 
-<p align="center">
+<p>
   Software Engineer | Java Spring Boot | Microservices | Full-Stack Developer | MERN Stack
 </p>
 
