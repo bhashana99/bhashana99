@@ -24,6 +24,7 @@ I am passionate about backend development, clean architecture, and building secu
   <img src="https://img.shields.io/badge/Angular-000?style=flat&logo=angular"/>
   <img src="https://img.shields.io/badge/React-000?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js"/>
+  <img src="https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql"/>
   <img src="https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker"/>
 </p>
