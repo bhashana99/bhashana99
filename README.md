@@ -1,17 +1,30 @@
-<h1 align="center">Bhashana Chamodya</h1>
+<h1 align="center">Hello there! 👋 I'm Bhashana Chamodya</h1>
 
 <p align="center">
-  Software Engineer • Java Spring Boot • Microservices • Angular • React • MERN Stack
+  Software Engineer | Java Spring Boot | Microservices | Full-Stack Developer | MERN Stack
 </p>
 
 ---
 
 ## About Me
 
-I am a Software Engineer with experience building scalable enterprise applications using **Java, Spring Boot, Angular, and microservices architecture**.  
-I recently completed my **BSc (Hons) in Software Engineering** at the **University of Kelaniya** and currently work as an **Associate Software Engineer at Hellen Global (Pvt) Ltd**, contributing to production-ready systems and REST API integrations.
+I'm Bhashana, a passionate Software Engineer with experience building scalable enterprise applications using **Java, Spring Boot, Angular, React, and microservices architecture**.
 
-I am passionate about backend development, clean architecture, and building secure, high-performance software solutions.
+I recently completed my **BSc (Hons) in Software Engineering** at the **University of Kelaniya**, and I currently work as an **Associate Software Engineer at Hellen Global (Pvt) Ltd**, contributing to production-ready systems and REST API integrations.
+
+I enjoy solving complex problems, designing clean backend architectures, and continuously learning new technologies.
+
+---
+
+## What I Bring to the Table
+
+- **Backend Engineering**: Strong foundation in developing scalable REST APIs, microservices, and secure backend systems using Java Spring Boot and Node.js.
+
+- **Full-Stack Development**: Hands-on experience building modern web applications with Angular, React, and MERN stack technologies.
+
+- **Databases & System Design**: Skilled in working with both relational and NoSQL databases including MySQL, PostgreSQL, and MongoDB.
+
+- **DevOps & Tools**: Familiar with Docker, Git, CI/CD workflows, and production deployment practices.
 
 ---
 
@@ -23,14 +36,23 @@ I am passionate about backend development, clean architecture, and building secu
 
 ---
 
+## Let's Connect!
 
-## Contact
-
-- Email: **bhashanachamodya99@gmail.com**  
-- Portfolio: https://bhashana99.onrender.com  
-- LinkedIn: https://www.linkedin.com/in/bhashana-chamodya/  
-- GitHub: https://github.com/bhashana99  
+<p align="left">
+  <a href="mailto:bhashanachamodya99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhashana-chamodya/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://bhashana99.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome" />
+  </a>
+  <a href="https://github.com/bhashana99">
+    <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github" />
+  </a>
+</p>
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me.
+⭐ Feel free to explore my pinned repositories and connect with me!
