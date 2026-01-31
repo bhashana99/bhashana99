@@ -1,57 +1,56 @@
-# Bhashana Chamodya
-
-Software Engineer | Java Spring Boot | Microservices | Angular | React | MERN Stack
-
-I am a Software Engineer with experience building scalable enterprise applications using Java, Spring Boot, Angular, and microservices architecture.  
-I recently completed my BSc (Hons) in Software Engineering at the University of Kelaniya and currently work as an Associate Software Engineer at Hellen Global (Pvt) Ltd.
+<h1 align="center">Bhashana Chamodya</h1>
+<p align="center">
+  Software Engineer • Java Spring Boot • Microservices • Angular • React • MERN Stack
+</p>
 
 ---
 
-## Experience
+### About Me
 
-- Associate Software Engineer — Hellen Global (2025 – Present)  
-- Software Engineer Intern — Visual Concept Labs (Dialog TV Platforms: ADHUB, MI, Nash)
+I am a Software Engineer with experience building scalable enterprise applications using **Java, Spring Boot, Angular, and microservices architecture**.  
+I recently completed my **BSc (Hons) in Software Engineering** at the **University of Kelaniya** and currently work as an **Associate Software Engineer at Hellen Global (Pvt) Ltd**.
 
 ---
 
-## Projects
+### Tech Stack
 
-**FindMyMedi (Ongoing)**  
+<p>
+  <img src="https://img.shields.io/badge/Java-black?style=flat&logo=java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-black?style=flat&logo=springboot"/>
+  <img src="https://img.shields.io/badge/Angular-black?style=flat&logo=angular"/>
+  <img src="https://img.shields.io/badge/React-black?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Docker-black?style=flat&logo=docker"/>
+</p>
+
+---
+
+### Projects
+
+#### FindMyMedi (Ongoing)
 Healthcare platform for real-time medicine availability and secure pharmacy integration with OAuth2 authentication.  
 Tech: Spring Boot, Angular, PostgreSQL, Docker, WSO2  
-GitHub: https://github.com/bhashana99/findmymedi  
+🔗 https://github.com/bhashana99/findmymedi  
 
-**MediBridge**  
+#### MediBridge
 Event-driven microservices healthcare backend enabling scalable communication through Kafka and gRPC.  
-Tech: Spring Boot, Microservices, Kafka, gRPC, Docker  
-GitHub: https://github.com/bhashana99/MediBridge  
+Tech: Spring Boot, Kafka, gRPC, Docker  
+🔗 https://github.com/bhashana99/MediBridge  
 
-**Dynamic Portfolio Hub**  
-Customizable portfolio management platform with admin panel, JWT authentication, and live deployment.  
-Tech: React, Node.js, Express.js, MongoDB, Firebase, JWT  
+#### Dynamic Portfolio Hub
+Customizable portfolio platform with admin panel, JWT authentication, and live deployment.  
 Live Demo: https://portfolio-template-4kpe.onrender.com  
-GitHub: https://github.com/bhashana99/dynamic_portfolio_hub  
+🔗 https://github.com/bhashana99/dynamic_portfolio_hub  
 
-**Vacancy Manager Pro (Live Client Project)**  
+#### Vacancy Manager Pro (Live Client Project)
 Recruitment platform with admin dashboard, JWT authentication, and Firebase media storage.  
-Tech: React, Node.js, Express.js, MongoDB, Firebase, JWT  
 Live: https://lbnkeyresource.com  
-GitHub: https://github.com/bhashana99/LBN-web  
+🔗 https://github.com/bhashana99/LBN-web  
 
 ---
 
-## Technical Skills
+### Contact
 
-Languages: Java, JavaScript, TypeScript, SQL  
-Backend: Spring Boot, Node.js, Express.js, REST APIs, Microservices  
-Frontend: Angular, React, Tailwind CSS  
-Databases: MySQL, PostgreSQL, MongoDB  
-Tools: Docker, Git, GitHub, Postman  
-
----
-
-## Contact
-
-Email: bhashanachamodya99@gmail.com  
-Portfolio: https://bhashana99.onrender.com  
-LinkedIn: https://www.linkedin.com/in/bhashana-chamodya
+- Email: **bhashanachamodya99@gmail.com**  
+- Portfolio: https://bhashana99.onrender.com  
+- LinkedIn: https://www.linkedin.com/in/bhashana-chamodya
