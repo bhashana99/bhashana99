@@ -26,26 +26,26 @@ I enjoy solving complex problems, designing clean backend architectures, and con
 
 ## 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?style=flat&logo=springboot&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-000?style=flat&logo=cloud&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%23000000.svg?style=for-the-badge&logo=cloud&logoColor=white)
 
-![Angular](https://img.shields.io/badge/Angular-000?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-000?style=flat&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-![Cypress](https://img.shields.io/badge/Cypress-000?style=flat&logo=cypress&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
 ---
 
