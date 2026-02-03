@@ -47,16 +47,5 @@ I enjoy solving complex problems, designing clean backend architectures, and con
 
 ![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=bhashana99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=bhashana99&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhashana99&theme=dark&hide_border=false&layout=compact)
-
----
 
 ⭐ Feel free to explore my pinned repositories and connect with me!
