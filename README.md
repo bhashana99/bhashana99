@@ -46,12 +46,20 @@ I enjoy solving complex problems, designing clean backend architectures, and con
 ⭐ Feel free to explore my pinned repositories and connect with me!
 
 <p align="center">
-<a href="https://linkedin.com/in/bhashana-chamodya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhashanachamodya" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.glacier" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhashanachamodya" height="30" width="40" /></a>
-<a href="https://bhashana99.onrender.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="bhashana portfolio" height="30" width="40" />
-</a>
-  <a href="mailto:bhashanachamodya99@gmail.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="bhashana email" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/bhashana-chamodya" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="30" width="30" />
+  </a>
+
+  <a href="https://instagram.com/mr.glacier" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30" width="30" />
+  </a>
+
+  <a href="https://bhashana99.onrender.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" height="30" width="30" />
+  </a>
+
+  <a href="mailto:bhashanachamodya99@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30" width="30" />
+  </a>
 </p>
+
