@@ -4,6 +4,12 @@
   Software Engineer | Java Spring Boot | Microservices | Angular | React | MERN Stack
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhashana99&label=Profile%20views&color=0e75b6&style=flat" alt="nisalgunawardhana" />
+  <img src="https://img.shields.io/github/followers/bhashana99?label=Followers&style=flat&color=green" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/bhashana99?label=Total%20Stars&style=flat&color=yellow" alt="Total Stars" />
+</p>
+
 ---
 
 ## 💫 About Me
