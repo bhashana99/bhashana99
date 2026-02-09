@@ -1,35 +1,24 @@
 <h1 align="center">Hey 👋, I'm Bhashana Chamodya</h1>
 
 <p align="center">
-  Software Engineer | Java Spring Boot | Microservices | Angular | React | MERN Stack
+  Backend-Focused Software Engineer | Java & Spring Boot | Microservices | Full-Stack Developer (Angular & React)
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhashana99&label=Profile%20views&color=0e75b6&style=flat" alt="nisalgunawardhana" />
+  <img src="https://komarev.com/ghpvc/?username=bhashana99&label=Profile%20views&color=0e75b6&style=flat" alt="bhashanachamodya" />
   <img src="https://img.shields.io/github/followers/bhashana99?label=Followers&style=flat&color=green" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/bhashana99?label=Total%20Stars&style=flat&color=yellow" alt="Total Stars" />
 </p>
 
 ---
 
-## 💫 About Me
-
-I'm Bhashana, a passionate Software Engineer with experience building scalable enterprise applications using **Java, Spring Boot, Angular, React, and microservices architecture**.
+I'm a passionate Software Engineer with experience building scalable enterprise applications using **Java, Spring Boot, Angular, React, and microservices architecture**.
 
 I recently completed my **BSc (Hons) in Software Engineering** at the **University of Kelaniya**, and I currently work as an **Associate Software Engineer at Hellen Global (Pvt) Ltd**, contributing to production-ready systems and REST API integrations.
 
 I enjoy solving complex problems, designing clean backend architectures, and continuously learning new technologies.
 
 ---
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhashana-chamodya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhashanachamodya99@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://bhashana99.onrender.com)
-
----
-
 ## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -55,3 +44,14 @@ I enjoy solving complex problems, designing clean backend architectures, and con
 
 
 ⭐ Feel free to explore my pinned repositories and connect with me!
+
+<p align="center">
+<a href="https://linkedin.com/in/bhashana-chamodya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhashanachamodya" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.glacier" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhashanachamodya" height="30" width="40" /></a>
+<a href="https://bhashana99.onrender.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="bhashana portfolio" height="30" width="40" />
+</a>
+  <a href="mailto:bhashanachamodya99@gmail.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="bhashana email" height="30" width="40" />
+</a>
+</p>
