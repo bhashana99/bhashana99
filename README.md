@@ -1,4 +1,4 @@
-<h1 align="center">Bhashana Chamodya</h1>
+<h1 align="center">Hey 👋, I'm Bhashana Chamodya</h1>
 
 <p align="center">
   Software Engineer | Java Spring Boot | Microservices | Angular | React | MERN Stack
